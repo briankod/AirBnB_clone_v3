@@ -154,8 +154,8 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Mark mutuota - [Github](https://github.com/tenmark86) 
-David olago - [Github](https://github.com/DavidJ001) 
+* Mark mutuota - [Github](https://github.com/tenmark86) 
+* David olago - [Github](https://github.com/DavidJ001) 
 
 ## License
 Public Domain. No copy write protection. 
